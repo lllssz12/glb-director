@@ -1,3 +1,4 @@
+/*
 # License
 
 Except where otherwise specified, this project is licensed with the BSD 3-Clause License included below. Where work is a derivative of other BSD or MIT licensed works, the original license is also included in the source code.
